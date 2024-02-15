@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DZ recursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbc4048e986597f9068835ba969587fb9a1be3a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483625c79f40fa55899495f578664e97705eac9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DZ recursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DZ recursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

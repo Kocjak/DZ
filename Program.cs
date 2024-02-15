@@ -33,7 +33,7 @@ ShowNaturalNumbers(M,N); */
 /*Задача 2: Напишите программу вычисления функции Аккермана 
 с помощью рекурсии. Даны два неотрицательных числа m и n.*/
 
-Console.WriteLine("Функци Аккермана задается в виде Acr=(M, N)");
+/*Console.WriteLine("Функци Аккермана задается в виде Acr=(M, N)");
 Console.WriteLine("Значения M и N не могут быть отрицательными");
 Console.Write("Введите значение M: ");
 int M = Convert.ToInt32(Console.ReadLine());
@@ -50,5 +50,27 @@ int CalculateTheAckermanFunction(int M, int N)
         else return CalculateTheAckermanFunction(M-1, CalculateTheAckermanFunction(M,N-1));
     }
 
-Console.WriteLine(CalculateTheAckermanFunction(M,N));
-    
+Console.WriteLine(CalculateTheAckermanFunction(M,N));*/
+
+
+/*Задача 3: Задайте произвольный массив. 
+Выведете его элементы, начиная с конца. 
+Использовать рекурсию, не использовать циклы.*/
+
+int[] arr = {1,2,3,4,5};
+int size=arr.Length-1;
+ShowArray(arr, size);
+static void ShowArray(int[] arr, int size)
+{
+    if (size==0)
+    {
+        Console.Write($"{arr[size]} ");
+        return;
+    }  
+    else 
+        {
+        Console.Write($"{arr[size]} ");
+        size--;
+        }
+    ShowArray(arr, size);
+}
