@@ -1,0 +1,15 @@
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.AssemblyInfoInputs.cache
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.AssemblyInfo.cs
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.csproj.CoreCompileInputs.cache
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.sourcelink.json
+C:\Users\spopl\Desktop\DZ recursion\bin\Debug\net8.0\DZ recursion.exe
+C:\Users\spopl\Desktop\DZ recursion\bin\Debug\net8.0\DZ recursion.deps.json
+C:\Users\spopl\Desktop\DZ recursion\bin\Debug\net8.0\DZ recursion.runtimeconfig.json
+C:\Users\spopl\Desktop\DZ recursion\bin\Debug\net8.0\DZ recursion.dll
+C:\Users\spopl\Desktop\DZ recursion\bin\Debug\net8.0\DZ recursion.pdb
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.dll
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\refint\DZ recursion.dll
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.pdb
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\DZ recursion.genruntimeconfig.cache
+C:\Users\spopl\Desktop\DZ recursion\obj\Debug\net8.0\ref\DZ recursion.dll
